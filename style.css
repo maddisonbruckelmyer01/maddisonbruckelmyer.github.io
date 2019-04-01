@@ -1,1 +1,7 @@
-<h1 style= "color:blue;>Maddison Bruckelmyer</h1>
+h1 {
+  text-align: center;
+  font-size: 12pt;
+  color: red;
+  margin-bottom: 5px;
+  text-decoration; underline;
+}
