@@ -41,3 +41,6 @@ li {
   color: white;
   text-align: left;
 }
+#pic {
+  float: right;
+}
