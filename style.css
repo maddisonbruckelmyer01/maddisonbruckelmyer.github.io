@@ -5,28 +5,33 @@
   padding: 10px 150px 10px 150px;
   border-radius: 15px;
   background-color: #800000;
-    text-align: left;
 }
 #content-contact {
   color: white;
+  text-align: center;
 }
 #content-profile {
   color: white;
+  text-align: left;
 }
 #content-education {
   color: white;
+  text-align: left;
 }
 h1 {
   font-size: 60px; 
   margin-bottom: -25px;
+  text-align: left;
 }
 h2 {
   font-size: 18px;
   margin-bottom: -6px;
+  text-align: left;
 }
 h3 {
   font-size: 26px;
   margin-bottom: -10px;
+  text-align: left;
 }
 li {
   font-size: 18px;
@@ -34,4 +39,5 @@ li {
 }
 #content-work {
   color: white;
+  text-align: left;
 }
